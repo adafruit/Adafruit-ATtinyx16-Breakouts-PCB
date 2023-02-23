@@ -1,6 +1,6 @@
 ## Adafruit ATtinyx16 Breakouts with seesaw - STEMMA QT / Qwiic PCB
 
-<a href="http://www.adafruit.com/products/5681"><img src="assets/5681-01.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/5681"><img src="assets/5681-04.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 <a href="http://www.adafruit.com/products/5690"><img src="assets/5690-01.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
