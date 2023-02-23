@@ -9,6 +9,7 @@ PCB files for the Adafruit ATtiny816 and ATtiny1616 Breakouts with seesaw - STEM
 
 Format is EagleCAD schematic and board layout
 * https://www.adafruit.com/product/5681
+* https://www.adafruit.com/product/5690
 
 ### Description
 
